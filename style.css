@@ -2,3 +2,8 @@ body{
   color: cornflowerblue;
   font: 800 75px arial;
 }
+
+.sub{
+  color: red;
+  font: 800 50px arial;
+}
